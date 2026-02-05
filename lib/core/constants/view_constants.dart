@@ -1,0 +1,78 @@
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+class ViewConstants {
+  static double height2x = 2.h;
+  static double height4x = 4.h;
+  static double height6x = 6.h;
+  static double height8x = 8.h;
+  static double height5x = 5.h;
+  static double height10x = 10.h;
+  static double height11x = 11.h;
+  static double height12x = 12.h;
+  static double height13x = 13.h;
+  static double height14x = 14.h;
+  static double height15x = 15.h;
+  static double height16x = 16.h;
+  static double height17x = 17.h;
+  static double height18x = 18.h;
+  static double height19x = 19.h;
+  static double height20x = 20.h;
+  static double height21x = 21.h;
+  static double height22x = 22.h;
+  static double height23x = 23.h;
+  static double height24x = 24.h;
+  static double height30x = 30.h;
+  static double height40x = 40.h;
+  static double height48x = 48.h;
+  static double height50x = 50.h;
+  static double height60x = 60.h;
+  static double height80x = 80.h;
+  static double height100x = 100.h;
+  static double height200x = 200.h;
+  static double height300x = 300.h;
+
+  static double width8x = 8.w;
+  static double width10x = 10.w;
+  static double width11x = 11.w;
+  static double width12x = 12.w;
+  static double width13x = 13.w;
+  static double width14x = 14.w;
+  static double width15x = 15.w;
+  static double width16x = 16.w;
+  static double width17x = 17.w;
+  static double width18x = 18.w;
+  static double width19x = 19.w;
+  static double width20x = 20.w;
+  static double width21x = 21.w;
+  static double width22x = 22.w;
+  static double width23x = 23.w;
+  static double width24x = 24.w;
+  static double width30x = 30.w;
+  static double width40x = 40.w;
+  static double width50x = 50.w;
+  static double width80x = 80.w;
+  static double width300x = 300.w;
+
+  static double radius1x = 1.r;
+  static double radius2x = 2.r;
+  static double radius3x = 3.r;
+  static double radius4x = 4.r;
+  static double radius5x = 5.r;
+  static double radius6x = 6.r;
+  static double radius7x = 7.r;
+  static double radius8x = 8.r;
+  static double radius9x = 9.r;
+  static double radius10x = 10.r;
+  static double radius11x = 11.r;
+  static double radius12x = 12.r;
+  static double radius13x = 13.r;
+  static double radius14x = 14.r;
+  static double radius15x = 15.r;
+  static double radius16x = 16.r;
+  static double radius17x = 17.r;
+  static double radius18x = 18.r;
+  static double radius19x = 19.r;
+  static double radius20x = 20.r;
+  static double radius26x = 26.r;
+
+}
